@@ -1,0 +1,95 @@
+body {
+    background-image: url('cards/blackjackTable.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    background-color: #1e242c;
+    overflow: hidden;
+}
+
+#game-container {
+    margin: 20px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.card-image {
+    width: 70px;
+    height: 100px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.hidden {
+    display: none;
+}
+
+#bet-container {
+    margin-bottom: 20px;
+}
+
+#player-section {
+    margin-top: auto;
+    padding-bottom: 30px;
+}
+
+#action-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+#dealer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+#player-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+#blackJack{
+    margin-top: 165px;
+    font-size: 40px;
+
+}
+
+.black {
+    color: black;
+}
+
+.jack {
+    color: red;
+}
+
