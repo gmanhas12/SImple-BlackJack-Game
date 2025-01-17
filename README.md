@@ -41,9 +41,5 @@ The game announces the result (Player Wins, Dealer Wins, Tie, or Blackjack) and 
 Setup
 To run this game locally:
 
-Clone the repository:
-bash
-Copy
-Edit
-git clone <repository-url>  
+Clone the repository: git clone <repository-url>  
 Open the index.html file in your browser.
