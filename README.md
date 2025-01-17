@@ -1,4 +1,16 @@
 Interactive Blackjack Game 🎴
+
+
+
+
+<img width="1426" alt="Screenshot 2025-01-16 at 10 10 43 PM" src="https://github.com/user-attachments/assets/7aea2541-1d4b-4709-8d1e-266a3cb83a85" />
+
+
+
+
+
+
+
 A fully functional Blackjack game built using JavaScript, HTML, and CSS. This project simulates a real-world casino-style Blackjack experience with dynamic visuals and intuitive gameplay. Perfect for both learning and entertainment!
 
 Features
